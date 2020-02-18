@@ -15,4 +15,4 @@ Screenshot of audit of color schemes.
 
 Screenshot of audit of Instagram. 
 
-
+<img src="Screen Shot 2020-02-18 at 3.32.04 PM.png" width="350">
